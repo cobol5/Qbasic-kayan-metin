@@ -81,7 +81,7 @@ LOCATE 23, 1: PRINT CHR$(200); STRING$(78, 205); CHR$(188)
  
 LOCATE 2, 2
  
-COLOR 0, 7: PRINT "      K A Y A N   Y A Z I   O R N E G I          By: Sener DURMAZ  23.05.2021  "
+COLOR 0, 7: PRINT "      K A Y A N   Y A Z I   O R N E G I          By: Serkan Korkmaz  23.05.2021  "
  
 LOCATE 22, 3: PRINT "ESC_Cikis"
  
